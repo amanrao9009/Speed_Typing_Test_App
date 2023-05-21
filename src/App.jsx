@@ -114,7 +114,7 @@ export default function Quotable() {
 
           <div className="main">
             <div ref={spamAarrayRef} className="santance"> {data}</div>
-            <textarea onChange={()=>{check()}} type="text" ref={inputRef}  name="" id="" cols="30" rows="10">Lorem</textarea>
+            <textarea onChange={()=>{check()}} type="text" ref={inputRef}  name="" id="" cols="30" rows="10"></textarea>
           </div>
         
     </div>
