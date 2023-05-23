@@ -208,9 +208,7 @@ textarea:focus{
 
 @media (max-width: 575px) {
   
-  body{
-    /* display: none; */
-  }
+  
 
   .header{
     display: flex;
