@@ -252,5 +252,8 @@ textarea:focus{
 
   }
 
+  .startbtn{
+    margin-bottom: 20vh;
+  }
 
 }
